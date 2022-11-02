@@ -99,6 +99,11 @@ main {
         font-weight: $typography__font-weight--bold;
         color: $color__neutral--very-dark-blue;
         margin-right: 0.5rem;
+        cursor: pointer;
+
+        &:hover {
+          color: $color__primary--blue;
+        }
       }
 
       &--post {

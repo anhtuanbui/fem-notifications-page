@@ -140,6 +140,7 @@ main {
     }
 
     &-message {
+      margin-top: 0.75rem !important;
       border: 1px solid $color__neutral--light-grayish-blue-2;
       padding: 1rem;
       border-radius: 0.25rem;

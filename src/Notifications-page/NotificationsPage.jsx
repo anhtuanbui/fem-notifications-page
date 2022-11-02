@@ -79,7 +79,7 @@ export default class NotificationsPage extends Component {
                 </div>
                 <div className="notification__content">
                   <p className="notification__content-info"><span className='notification__content-info--name'>Kimberly Smith</span>commented on your picture<span className='notification__content-info--second notification__content-info--post'></span><span className='notification__content-info--active display-none'></span></p>
-                  <p className="notification__content-time">1m ago</p>
+                  <p className="notification__content-time">1 week ago</p>
                   {/* <p className="notification__content-message"></p> */}
                 </div>
               </div>
